@@ -21,6 +21,8 @@ In my free time I love piecing apart new puzzles!              Finding new ways 
 <!-- TO-DO, LAUNCH MY OWN INSTANCE
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrylo-Bakumenko&layout=donut&theme=dark)](https://github.com/Kyrylo-Bakumenko)
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrylo-Bakumenko&layout=donut&theme=dark&hide=jupyter%20notebook,CMake)](https://github.com/Kyrylo-Bakumenko)
                                                                 
 Thanks for stopping by!
 <!--
