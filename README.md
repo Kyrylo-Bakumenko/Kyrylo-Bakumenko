@@ -1,7 +1,7 @@
 # Hi there 👋
 # My name is Kyrylo! 
 
-I am a rising junior at Dartmouth College studying Computer Science 💻 and Neuroscience 🧠.
+I am a rising senior at Dartmouth College studying Computer Science 💻 and Neuroscience 🧠.
 
 Many of my repos are *private*, so feel free to [email me](mailto:kyrylo.bakumenko@gmail.com) to view them!
 
